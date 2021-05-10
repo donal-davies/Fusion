@@ -1,0 +1,3 @@
+/generator/particleEnergy {Iter1} keV
+/runData/filename {Iter1}_{Iter2}
+/run/beamOn 10000
